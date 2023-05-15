@@ -1,2 +1,2 @@
 # analysisGUI
-analysisGUI package
+GUI analysis for neuroscience
